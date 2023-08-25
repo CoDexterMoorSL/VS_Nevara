@@ -6,7 +6,8 @@
 'CycloRotor Computational Model Version 3.0.0 - Nevara (03.19.2022)' - Initially Launched
 'CycloRotor Computational Model Version 3.0.1 - Nevara (04.14.2022)' - Added the Data tab t the end of plot
 
-'test msge - gitHub commit'
+'test msg - gitHub commit VS'
+'test msg - gitHub push VSC'
 
 -Pasan Jayasinghe-
 
