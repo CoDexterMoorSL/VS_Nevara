@@ -1,4 +1,4 @@
-# NEVARA CycloR Tools (Reupload)
+# NEVARA CycloR Tools
 An advanced Cyclo-rotor performance analysis tool based on Blade Element Momentum Theory.
 ![preview](https://github.com/CoDexterMoorSL/VS_Nevara/assets/134712940/eac1d9f8-ed7c-4b16-9eee-022c35a9691f)
 -------------------------------------------------------------------------------------------
